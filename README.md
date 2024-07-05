@@ -69,16 +69,19 @@ Utilize the provided function in your code to load the image.
 ## Screenshots
 
 - Blurred Image
+  
 ![Blurred](https://github.com/sarim-01/3D-Convolution-Image-Processing/assets/174796399/ee098a01-9c1a-4710-aba4-62336b637a2f)
 
 
 
 - Edge Detected Image:
+  
 ![Edge_Detected](https://github.com/sarim-01/3D-Convolution-Image-Processing/assets/174796399/86804a4d-9a5b-4208-8a9f-704490a57953)
 
 
 
 - Feature Extracted Image:
+  
 ![Feature_Extracted](https://github.com/sarim-01/3D-Convolution-Image-Processing/assets/174796399/43c550f4-dff8-47bb-826a-f8407813ede3)
 
 ## Contributing
